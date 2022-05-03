@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="search">Search</string>
+    <string name="enter">enter to search here</string>
+</resources>
